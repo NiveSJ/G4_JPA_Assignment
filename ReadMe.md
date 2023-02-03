@@ -1,4 +1,4 @@
-# Welcome to our recipe App
+# Welcome to our Recipe App
 ## Collaborators: 
 [Liljana](https://github.com/CyberLilly20), 
 [Farhad](https://github.com/far-tow), 
