@@ -12,8 +12,8 @@ To creat a RecipeDatabase with the following tools:
  - Entity
  - Spring Boot
 - Dependency Injection•Entity Relationships
-- SpringData / EntityManager
-- CRUD functionality with SpringData or EntityManager
+- SpringData 
+- CRUD functionality with SpringData 
 - Read from database with help of SpringData framework or queries.
 - MySQL database•H2 database in testing environment.•Test with database.
 
@@ -27,4 +27,4 @@ To creat a RecipeDatabase with the following tools:
 
 ### Class Diagram
 ![ClassDiagram.jpg](img%2FClassDiagram.jpg)
-## Enjoy
+
