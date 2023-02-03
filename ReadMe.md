@@ -7,13 +7,14 @@
 
 ### The Assignment:
 
-To Create a Spring Boot+ Mysql Recipe app:
+To Create a Spring Boot+ Mysql Recipe app. Below mentioned concepts are used:
 
  - JPA 
  - Entity
  - Spring Boot
 - Dependency Injection•Entity Relationships
 - SpringData and Spring Data Test
+- JPQL for Custom @Query
 - CRUD functionality with SpringData 
 - Read from database with help of SpringData framework or queries.
 - MySQL database•H2 database in testing environment.•Test with database.
