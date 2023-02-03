@@ -6,13 +6,14 @@
 [Samuel](https://github.com/SamuelSvahn)
 
 ### The Assignment:
-To creat a RecipeDatabase with the following tools:
 
- - JPA /Hibernate
+To Create a Spring Boot+ Mysql Recipe app:
+
+ - JPA 
  - Entity
  - Spring Boot
 - Dependency Injection•Entity Relationships
-- SpringData 
+- SpringData and Spring Data Test
 - CRUD functionality with SpringData 
 - Read from database with help of SpringData framework or queries.
 - MySQL database•H2 database in testing environment.•Test with database.
